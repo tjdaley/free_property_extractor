@@ -1,0 +1,11 @@
+pydantic
+pydantic-settings
+pillow
+pdf2image
+pandas
+openai
+anthropic
+google-generativeai
+tqdm
+pyyaml
+tomli

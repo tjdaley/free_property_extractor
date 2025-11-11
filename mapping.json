@@ -1,0 +1,29 @@
+{
+  "bank_statement": [
+    "institution_name",
+    "account_number",
+    "beginning_date",
+    "ending_date",
+    "account_owner_name"
+  ],
+  "credit_card_statement": [
+    "institution_name",
+    "account_number",
+    "beginning_date",
+    "ending_date",
+    "account_owner_name"
+  ],
+  "brokerage_account_statement": [
+    "institution_name",
+    "account_number",
+    "beginning_date",
+    "ending_date",
+    "account_owner_name"
+  ],
+  "tax_return": [
+    "taxing_authority",
+    "tax_year",
+    "tax_payer_name",
+    "tax_form_name"
+  ]
+}

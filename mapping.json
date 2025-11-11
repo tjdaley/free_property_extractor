@@ -20,10 +20,72 @@
     "ending_date",
     "account_owner_name"
   ],
+  "retirement_statement": [
+    "institution_name",
+    "account_number",
+    "beginning_date",
+    "ending_date",
+    "account_owner_name"
+  ],
+  "education_account_statement": [
+    "institution_name",
+    "account_number",
+    "beginning_date",
+    "ending_date",
+    "account_owner_name",
+    "account_type",
+    "beneficiary_name"
+  ],
   "tax_return": [
     "taxing_authority",
     "tax_year",
     "tax_payer_name",
     "tax_form_name"
+  ],
+  "email": [
+    "sender_name",
+    "sender_email",
+    "recipient_name",
+    "recipient_email",
+    "subject",
+    "date_sent",
+    "brief_summary",
+    "tone"
+  ],
+  "text_message": [
+    "sender_name",
+    "sender_phone_number",
+    "recipient_name",
+    "recipient_phone_number",
+    "date_sent",
+    "brief_summary",
+    "tone"
+  ],
+  "legal_contract": [
+    "party_one_name",
+    "party_two_name",
+    "effective_date",
+    "termination_date",
+    "governing_law_jurisdiction",
+    "brief_summary_of_purpose"
+  ],
+  "medical_record": [
+    "patient_name",
+    "date_of_birth",
+    "medical_record_number",
+    "date_of_service",
+    "brief_summary_of_visit"
+  ],
+  "social_media_message": [
+    "author_name",
+    "author_handle",
+    "date_posted",
+    "platform",
+    "brief_summary",
+    "tone"
+  ],
+  "other": [
+    "document_date",
+    "brief_summary"
   ]
 }

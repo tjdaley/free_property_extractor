@@ -1,7 +1,7 @@
 pydantic
 pydantic-settings
 pillow
-pdf2image
+pymupdf
 pandas
 openai
 anthropic
